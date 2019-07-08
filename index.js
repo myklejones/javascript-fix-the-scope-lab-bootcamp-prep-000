@@ -1,9 +1,9 @@
 var animal = {
-  myAnimal: 'dog'
+  myAnimal: 'cat'
   };
 
 var animal = {
-  yourAnimalAnimal: 'cat'
+  yourAnimalAnimal: 'dog'
   };
 
 function myAnimal() {
