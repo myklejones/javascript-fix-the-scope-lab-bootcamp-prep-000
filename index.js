@@ -1,10 +1,5 @@
-var animal = {
-  myAnimal: 'cat'
-  };
+var animal = 'dog'
 
-var animal = {
-  yourAnimalAnimal: 'dog'
-  };
 
 function myAnimal() {
   return animal; 
