@@ -11,7 +11,7 @@ function yourAnimal() {
   return animal;
 }
 
-function (n+=2) {
+function (n) {
   return n + two
 
   // Feel free to move things around!
